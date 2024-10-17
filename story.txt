@@ -1,0 +1,16 @@
+1. Discovery of Git
+Once upon a time, in a digital realm, a young coder named Jeroen stumbled upon an ancient artifact called Git, said to hold the power of collaboration over code.
+
+2. The Message
+While exploring a repository, he found a mysterious file, README.md, containing the message: Every word counts. Each change matters.
+
+3. Conflict Arises
+As Jeroen learned to create branches and push changes, chaos ensued. He faced rival coder Jamie, who exclaimed, You’ve overwritten my changes!
+
+4. Finding Common Ground
+Realizing the importance of communication, Jeroen suggested, Let’s resolve this together. They collaborated on the changes, carefully considering each word.!
+
+5. A New Understanding
+Through teamwork, they merged their work beautifully. Jeroen learned that Git was about collaboration and respect for every change, embracing the idea that in the world of Git, every word counts.
+
+The End
